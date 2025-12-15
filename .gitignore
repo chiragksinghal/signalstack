@@ -1,0 +1,22 @@
+# env / secrets
+.env
+.env.*
+*.pem
+*.key
+
+# node
+node_modules/
+.next/
+dist/
+
+# python
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+
+# logs
+*.log
+
+# OS
+.DS_Store
